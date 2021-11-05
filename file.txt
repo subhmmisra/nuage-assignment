@@ -1,0 +1,11 @@
+﻿Hello world I am Shubham Mishra I am great,
+The newer threading module included with Python 2.4 provides much more powerful, high-level support for threads than the thread module discussed in the previous section.
+
+The threading module exposes all the methods of the thread module and provides some additional methods −
+
+threading.activeCount() − Returns the number of thread objects that are active.
+
+threading.currentThread() − Returns the number of thread objects in the caller's thread control.
+
+threading.enumerate() − Returns a list of all thread objects that are currently active.
+
