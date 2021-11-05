@@ -15,6 +15,11 @@ This is a command line application which can be set to run by a single command.
 ## Documentation
 In order to interact with the project we just need to
  run the under written command in the terminal.
+ 
+This project is built using following libs and languages:
+* 1. Python 3.9
+* 2. Typer: Typer is a library for building CLI applications that users will love using and developers will love creating.
+[Typer Docs](https://typer.tiangolo.com)
 ```
 Note: 
 Make sure the input file should be in the same 
